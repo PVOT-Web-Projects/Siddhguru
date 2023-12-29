@@ -22,6 +22,7 @@ const HomePage3D = () => {
       y: 0,
     },
   };
+  
   const [ref, inView] = useInView({
     triggerOnce: true,
   });
