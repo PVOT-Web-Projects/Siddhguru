@@ -26,9 +26,6 @@ const HomePage3D = () => {
 
 
 
-
-
-  
   
   const [ref, inView] = useInView({
     triggerOnce: true,
